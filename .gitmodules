@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/abhishekpd01/PDF-Chatbot-Client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/abhishekpd01/PDF-Chatbot-Server.git
